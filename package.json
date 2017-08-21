@@ -1,0 +1,19 @@
+{
+  "name": "Lovely-Day-Fetch-Data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Justin Ho",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "js-htmlencode": "^0.3.0",
+    "mysql": "^2.13.0",
+    "request": "^2.81.0"
+  }
+}
